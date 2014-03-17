@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\08.BinaryToSignedShort\bin\Debug\08.BinaryToSignedShort.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\08.BinaryToSignedShort\obj\Debug\08.BinaryToSignedShort.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\08.BinaryToSignedShort\bin\Debug\08.BinaryToSignedShort.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\08.BinaryToSignedShort\bin\Debug\08.BinaryToSignedShort.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\08.BinaryToSignedShort\obj\Debug\08.BinaryToSignedShort.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\08.BinaryToSignedShort\obj\Debug\08.BinaryToSignedShort.pdb

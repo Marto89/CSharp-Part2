@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\4.RelevanceIndex\bin\Debug\4.RelevanceIndex.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\4.RelevanceIndex\bin\Debug\4.RelevanceIndex.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\4.RelevanceIndex\bin\Debug\4.RelevanceIndex.pdb
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\4.RelevanceIndex\obj\Debug\04.RelevanceIndex.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\4.RelevanceIndex\obj\Debug\4.RelevanceIndex.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\4.RelevanceIndex\obj\Debug\4.RelevanceIndex.pdb

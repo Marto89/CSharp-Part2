@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\04.ComparesTwoTextFilesLineByLine\bin\Debug\04.ComparesTwoTextFilesLineByLine.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\04.ComparesTwoTextFilesLineByLine\bin\Debug\04.ComparesTwoTextFilesLineByLine.exe
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\04.ComparesTwoTextFilesLineByLine\bin\Debug\04.ComparesTwoTextFilesLineByLine.pdb
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\04.ComparesTwoTextFilesLineByLine\obj\Debug\04.ComparesTwoTextFilesLineByLine.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\04.ComparesTwoTextFilesLineByLine\obj\Debug\04.ComparesTwoTextFilesLineByLine.exe
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\04.ComparesTwoTextFilesLineByLine\obj\Debug\04.ComparesTwoTextFilesLineByLine.pdb

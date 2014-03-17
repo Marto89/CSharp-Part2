@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\16.CSharpBrackets\bin\Debug\16.CSharpBrackets.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\16.CSharpBrackets\bin\Debug\16.CSharpBrackets.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\16.CSharpBrackets\bin\Debug\16.CSharpBrackets.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\16.CSharpBrackets\obj\Debug\16.CSharpBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\16.CSharpBrackets\obj\Debug\16.CSharpBrackets.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\16.CSharpBrackets\obj\Debug\16.CSharpBrackets.pdb

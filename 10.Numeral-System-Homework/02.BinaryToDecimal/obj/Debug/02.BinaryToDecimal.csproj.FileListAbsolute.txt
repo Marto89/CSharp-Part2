@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

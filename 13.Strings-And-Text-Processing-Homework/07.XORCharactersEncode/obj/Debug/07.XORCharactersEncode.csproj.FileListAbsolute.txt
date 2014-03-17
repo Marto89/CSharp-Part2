@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\07.XORCharactersEncode\bin\Debug\07.XORCharactersEncode.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\07.XORCharactersEncode\bin\Debug\07.XORCharactersEncode.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\07.XORCharactersEncode\bin\Debug\07.XORCharactersEncode.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\07.XORCharactersEncode\obj\Debug\07.XORCharactersEncode.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\07.XORCharactersEncode\obj\Debug\07.XORCharactersEncode.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\07.XORCharactersEncode\obj\Debug\07.XORCharactersEncode.pdb

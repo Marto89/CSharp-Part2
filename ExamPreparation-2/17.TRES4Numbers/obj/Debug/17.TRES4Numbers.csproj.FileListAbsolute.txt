@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\17.TRES4Numbers\bin\Debug\17.TRES4Numbers.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\17.TRES4Numbers\bin\Debug\17.TRES4Numbers.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\17.TRES4Numbers\bin\Debug\17.TRES4Numbers.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\17.TRES4Numbers\obj\Debug\17.TRES4Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\17.TRES4Numbers\obj\Debug\17.TRES4Numbers.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\17.TRES4Numbers\obj\Debug\17.TRES4Numbers.pdb

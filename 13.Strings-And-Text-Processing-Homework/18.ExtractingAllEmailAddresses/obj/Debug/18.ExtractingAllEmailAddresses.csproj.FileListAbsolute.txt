@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\18.ExtractingAllEmailAddresses\bin\Debug\18.ExtractingAllEmailAddresses.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\18.ExtractingAllEmailAddresses\bin\Debug\18.ExtractingAllEmailAddresses.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\18.ExtractingAllEmailAddresses\bin\Debug\18.ExtractingAllEmailAddresses.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\18.ExtractingAllEmailAddresses\obj\Debug\18.ExtractingAllEmailAddresses.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\18.ExtractingAllEmailAddresses\obj\Debug\18.ExtractingAllEmailAddresses.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\18.ExtractingAllEmailAddresses\obj\Debug\18.ExtractingAllEmailAddresses.pdb

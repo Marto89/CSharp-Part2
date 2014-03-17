@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\11.AddPolynom\bin\Debug\11.AddPolynom.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\11.AddPolynom\bin\Debug\11.AddPolynom.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\11.AddPolynom\bin\Debug\11.AddPolynom.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\11.AddPolynom\obj\Debug\11.AddPolynom.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\11.AddPolynom\obj\Debug\11.AddPolynom.pdb

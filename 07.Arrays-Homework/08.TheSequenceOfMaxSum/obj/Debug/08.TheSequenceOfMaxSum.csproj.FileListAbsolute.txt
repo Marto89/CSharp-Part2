@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\08.TheSequenceOfMaxSum\bin\Debug\08.TheSequenceOfMaxSum.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\08.TheSequenceOfMaxSum\obj\Debug\08.TheSequenceOfMaxSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\08.TheSequenceOfMaxSum\obj\Debug\08.TheSequenceOfMaxSum.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\08.TheSequenceOfMaxSum\bin\Debug\08.TheSequenceOfMaxSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\08.TheSequenceOfMaxSum\bin\Debug\08.TheSequenceOfMaxSum.pdb

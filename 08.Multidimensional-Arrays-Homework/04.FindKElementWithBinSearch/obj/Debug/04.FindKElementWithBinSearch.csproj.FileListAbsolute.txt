@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\04.FindKElementWithBinSearch\bin\Debug\04.FindKElementWithBinSearch.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\04.FindKElementWithBinSearch\bin\Debug\04.FindKElementWithBinSearch.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\04.FindKElementWithBinSearch\bin\Debug\04.FindKElementWithBinSearch.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\04.FindKElementWithBinSearch\obj\Debug\04.FindKElementWithBinSearch.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\04.FindKElementWithBinSearch\obj\Debug\04.FindKElementWithBinSearch.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\04.FindKElementWithBinSearch\obj\Debug\04.FindKElementWithBinSearch.pdb

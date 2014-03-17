@@ -1,0 +1,8 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.pdb

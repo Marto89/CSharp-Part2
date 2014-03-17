@@ -1,0 +1,7 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\obj\Debug\01.SayHello-Test.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\bin\Debug\01.SayHello-Test.dll
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\bin\Debug\01.SayHello-Test.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\bin\Debug\01.SayHello.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\bin\Debug\01.SayHello.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\obj\Debug\01.SayHello-Test.dll
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\01.SayHello-Test\obj\Debug\01.SayHello-Test.pdb

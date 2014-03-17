@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\03.ReadsATextFileAndInsertsLineNumbers\bin\Debug\03.ReadsATextFileAndInsertsLineNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\03.ReadsATextFileAndInsertsLineNumbers\bin\Debug\03.ReadsATextFileAndInsertsLineNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\03.ReadsATextFileAndInsertsLineNumbers\bin\Debug\03.ReadsATextFileAndInsertsLineNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\03.ReadsATextFileAndInsertsLineNumbers\obj\Debug\03.InsertsLineNumbers.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\03.ReadsATextFileAndInsertsLineNumbers\obj\Debug\03.ReadsATextFileAndInsertsLineNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\03.ReadsATextFileAndInsertsLineNumbers\obj\Debug\03.ReadsATextFileAndInsertsLineNumbers.pdb

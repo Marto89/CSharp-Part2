@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\06.Filled20CharactersString\bin\Debug\06.Filled20CharactersString.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\06.Filled20CharactersString\bin\Debug\06.Filled20CharactersString.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\06.Filled20CharactersString\bin\Debug\06.Filled20CharactersString.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\06.Filled20CharactersString\obj\Debug\06.Filled20CharactersString.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\06.Filled20CharactersString\obj\Debug\06.Filled20CharactersString.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\06.Filled20CharactersString\obj\Debug\06.Filled20CharactersString.pdb

@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\07.ReverseNumber\bin\Debug\07.ReverseNumber.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\07.ReverseNumber\obj\Debug\07.ReverseNumber.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\07.ReverseNumber\obj\Debug\07.ReverseNumber.pdb

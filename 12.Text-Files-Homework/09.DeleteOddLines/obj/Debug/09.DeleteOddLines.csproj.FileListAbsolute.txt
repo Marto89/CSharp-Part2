@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\07.MultiDimensionalArrays-Problem7\bin\Debug\07.MultiDimensionalArrays-Problem7.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\07.MultiDimensionalArrays-Problem7\bin\Debug\07.MultiDimensionalArrays-Problem7.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\07.MultiDimensionalArrays-Problem7\bin\Debug\07.MultiDimensionalArrays-Problem7.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\07.MultiDimensionalArrays-Problem7\obj\Debug\07.MultiDimensionalArrays-Problem7.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\07.MultiDimensionalArrays-Problem7\obj\Debug\07.MultiDimensionalArrays-Problem7.pdb

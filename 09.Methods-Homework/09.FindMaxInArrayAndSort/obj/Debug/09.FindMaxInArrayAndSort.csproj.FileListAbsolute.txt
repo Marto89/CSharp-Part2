@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\09.FindMaxInArrayAndSort\bin\Debug\09.FindMaxInArrayAndSort.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\09.FindMaxInArrayAndSort\bin\Debug\09.FindMaxInArrayAndSort.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\09.FindMaxInArrayAndSort\bin\Debug\09.FindMaxInArrayAndSort.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\09.FindMaxInArrayAndSort\obj\Debug\09.FindMaxInArrayAndSort.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\09.FindMaxInArrayAndSort\obj\Debug\09.FindMaxInArrayAndSort.pdb

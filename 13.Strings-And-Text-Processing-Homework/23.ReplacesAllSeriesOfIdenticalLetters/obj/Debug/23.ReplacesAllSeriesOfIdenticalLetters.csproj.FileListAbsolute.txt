@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\23.ReplacesAllSeriesOfIdenticalLetters\bin\Debug\23.ReplacesAllSeriesOfIdenticalLetters.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\23.ReplacesAllSeriesOfIdenticalLetters\bin\Debug\23.ReplacesAllSeriesOfIdenticalLetters.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\23.ReplacesAllSeriesOfIdenticalLetters\bin\Debug\23.ReplacesAllSeriesOfIdenticalLetters.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\23.ReplacesAllSeriesOfIdenticalLetters\obj\Debug\23.ReplacesAllSeriesOfIdenticalLetters.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\23.ReplacesAllSeriesOfIdenticalLetters\obj\Debug\23.ReplacesAllSeriesOfIdenticalLetters.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\23.ReplacesAllSeriesOfIdenticalLetters\obj\Debug\23.ReplacesAllSeriesOfIdenticalLetters.pdb

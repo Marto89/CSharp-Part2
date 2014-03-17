@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\20.PalindromesInText\bin\Debug\20.PalindromesInText.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\20.PalindromesInText\bin\Debug\20.PalindromesInText.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\20.PalindromesInText\bin\Debug\20.PalindromesInText.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\20.PalindromesInText\obj\Debug\20.PalindromesInText.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\20.PalindromesInText\obj\Debug\20.PalindromesInText.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\20.PalindromesInText\obj\Debug\20.PalindromesInText.pdb

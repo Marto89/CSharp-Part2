@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\05.ChangeWordsToUppercase\bin\Debug\05.ChangeWordsToUppercase.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\05.ChangeWordsToUppercase\bin\Debug\05.ChangeWordsToUppercase.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\05.ChangeWordsToUppercase\bin\Debug\05.ChangeWordsToUppercase.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\05.ChangeWordsToUppercase\obj\Debug\05.ChangeWordsToUppercase.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\05.ChangeWordsToUppercase\obj\Debug\05.ChangeWordsToUppercase.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\05.ChangeWordsToUppercase\obj\Debug\05.ChangeWordsToUppercase.pdb

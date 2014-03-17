@@ -1,0 +1,61 @@
+//Write a program that reads a text file and prints on the console its odd lines.
+
+using System;
+using System.IO;
+
+class ReadTextAndPrintsOddLines
+{
+    static void Main()
+    {
+        StreamReader reader=new StreamReader(@"..\..\01.ReadTextAndPrintsOddLines.cs");
+        using(reader)
+        {
+            int lineNumber = 0;
+            string line = reader.ReadLine();
+            while(line!=null)
+            {
+                lineNumber++;               
+                if(lineNumber%2!=0)
+                {
+                    Console.WriteLine("{0}. {1}",lineNumber,line);
+                }
+                line = reader.ReadLine();
+            }
+        }
+    }
+}
+
+----------------------------------------------------------------------
+
+using System;
+using System.IO;
+using System.Text;
+class ConcatenatesTwoTextFiles
+{
+    static void Main()
+    {
+        
+        StreamReader reader2 = new StreamReader(@"..\..\02.ConcatenatesTwoTextFiles.cs");
+        StreamReader reader = new StreamReader(@"..\..\..\01.ReadTextAndPrintsOddLines\01.ReadTextAndPrintsOddLines.cs");
+        StringBuilder firstText=new StringBuilder();
+        using(reader)
+        {
+            firstText.Append(reader.ReadToEnd());
+        }
+        StringBuilder secondText = new StringBuilder();
+        using(reader2)
+        {
+            secondText.Append(reader2.ReadToEnd());
+        }
+        string finalText = "finalText.txt";
+        StreamWriter writer = new StreamWriter(finalText);
+        using(writer)
+        {
+            writer.WriteLine(firstText);
+            writer.WriteLine();
+            writer.WriteLine(new string('-',70));
+            writer.WriteLine();
+            writer.WriteLine(secondText);
+        }
+    }   
+}

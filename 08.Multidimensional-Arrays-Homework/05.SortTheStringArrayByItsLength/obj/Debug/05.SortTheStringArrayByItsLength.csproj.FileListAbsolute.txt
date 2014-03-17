@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\05.SortTheStringArrayByItsLength\bin\Debug\05.SortTheStringArrayByItsLength.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\05.SortTheStringArrayByItsLength\bin\Debug\05.SortTheStringArrayByItsLength.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\05.SortTheStringArrayByItsLength\bin\Debug\05.SortTheStringArrayByItsLength.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\05.SortTheStringArrayByItsLength\obj\Debug\05.SortTheStringArrayByItsLength.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\05.SortTheStringArrayByItsLength\obj\Debug\05.SortTheStringArrayByItsLength.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\05.SortTheStringArrayByItsLength\obj\Debug\05.SortTheStringArrayByItsLength.pdb

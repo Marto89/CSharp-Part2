@@ -1,0 +1,23 @@
+1. using System;
+2. using System.IO;
+3. 
+4. class InsertsLineNumbers
+5. {
+6.     static void Main()
+7.     {
+8.         StreamReader reader = new StreamReader(@"..\..\03.InsertsLineNumbers.cs");
+9.         string finalText="finalText.txt";
+10.         StreamWriter writer = new StreamWriter(finalText);
+11.         using(writer)
+12.         {
+13.             string currentText=reader.ReadLine();
+14.             int line=0;
+15.             while(currentText!=null)
+16.             {
+17.                 line++;
+18.                 writer.WriteLine("{0}. {1}",line,currentText);
+19.                 currentText = reader.ReadLine();
+20.             }
+21.         }
+22.     }
+23. }

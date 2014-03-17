@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\02.Zerg!!!\bin\Debug\02.Zerg!!!.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\02.Zerg!!!\bin\Debug\02.Zerg!!!.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\02.Zerg!!!\bin\Debug\02.Zerg!!!.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\02.Zerg!!!\obj\Debug\02.Zerg!!!.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\02.Zerg!!!\obj\Debug\02.Zerg!!!.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\02.Zerg!!!\obj\Debug\02.Zerg!!!.pdb

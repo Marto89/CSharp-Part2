@@ -1,0 +1,12 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.csprojResolveAssemblyReference.cache

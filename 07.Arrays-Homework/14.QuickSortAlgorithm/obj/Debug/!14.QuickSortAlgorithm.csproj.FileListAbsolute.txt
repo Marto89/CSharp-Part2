@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\14.QuickSortAlgorithm\bin\Debug\14.QuickSortAlgorithm.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\14.QuickSortAlgorithm\obj\Debug\14.QuickSortAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\14.QuickSortAlgorithm\obj\Debug\14.QuickSortAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\14.QuickSortAlgorithm\bin\Debug\14.QuickSortAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\14.QuickSortAlgorithm\bin\Debug\14.QuickSortAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\14.QuickSortAlgorithm\obj\Debug\!14.QuickSortAlgorithm.csprojResolveAssemblyReference.cache

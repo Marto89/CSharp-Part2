@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\24.ListInAnAlphabeticalOrder\bin\Debug\24.ListInAnAlphabeticalOrder.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\24.ListInAnAlphabeticalOrder\bin\Debug\24.ListInAnAlphabeticalOrder.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\24.ListInAnAlphabeticalOrder\bin\Debug\24.ListInAnAlphabeticalOrder.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\24.ListInAnAlphabeticalOrder\obj\Debug\24.ListInAnAlphabeticalOrder.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\24.ListInAnAlphabeticalOrder\obj\Debug\24.ListInAnAlphabeticalOrder.pdb

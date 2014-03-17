@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\14.EncodeAndEncrypt\bin\Debug\14.EncodeAndEncrypt.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\14.EncodeAndEncrypt\bin\Debug\14.EncodeAndEncrypt.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\14.EncodeAndEncrypt\bin\Debug\14.EncodeAndEncrypt.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\14.EncodeAndEncrypt\obj\Debug\14.EncodeAndEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\14.EncodeAndEncrypt\obj\Debug\14.EncodeAndEncrypt.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\14.EncodeAndEncrypt\obj\Debug\14.EncodeAndEncrypt.pdb

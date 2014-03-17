@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\08.MagicWords\bin\Debug\08.MagicWords.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\08.MagicWords\bin\Debug\08.MagicWords.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\08.MagicWords\bin\Debug\08.MagicWords.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\08.MagicWords\obj\Debug\08.MagicWords.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\08.MagicWords\obj\Debug\08.MagicWords.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\08.MagicWords\obj\Debug\08.MagicWords.pdb

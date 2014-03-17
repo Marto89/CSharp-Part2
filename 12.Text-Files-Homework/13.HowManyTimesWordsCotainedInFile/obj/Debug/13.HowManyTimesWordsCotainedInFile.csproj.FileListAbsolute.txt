@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\12.Text-Files-Homework\13.HowManyTimesWordsCotainedInFile\bin\Debug\13.HowManyTimesWordsCotainedInFile.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\12.Text-Files-Homework\13.HowManyTimesWordsCotainedInFile\bin\Debug\13.HowManyTimesWordsCotainedInFile.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\12.Text-Files-Homework\13.HowManyTimesWordsCotainedInFile\bin\Debug\13.HowManyTimesWordsCotainedInFile.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\12.Text-Files-Homework\13.HowManyTimesWordsCotainedInFile\obj\Debug\13.HowManyTimesWordsCotainedInFile.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\12.Text-Files-Homework\13.HowManyTimesWordsCotainedInFile\obj\Debug\13.HowManyTimesWordsCotainedInFile.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\12.Text-Files-Homework\13.HowManyTimesWordsCotainedInFile\obj\Debug\13.HowManyTimesWordsCotainedInFile.pdb

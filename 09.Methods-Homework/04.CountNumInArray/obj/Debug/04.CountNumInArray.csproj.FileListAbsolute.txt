@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray\bin\Debug\04.CountNumInArray.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray\bin\Debug\04.CountNumInArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray\bin\Debug\04.CountNumInArray.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray\obj\Debug\04.CountNumInArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray\obj\Debug\04.CountNumInArray.pdb

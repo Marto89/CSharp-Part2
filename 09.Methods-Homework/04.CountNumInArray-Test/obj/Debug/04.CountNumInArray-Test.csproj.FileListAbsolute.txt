@@ -1,0 +1,7 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\bin\Debug\04.CountNumInArray-Test.dll
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\bin\Debug\04.CountNumInArray-Test.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\obj\Debug\04.CountNumInArray-Test.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\obj\Debug\04.CountNumInArray-Test.dll
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\obj\Debug\04.CountNumInArray-Test.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\bin\Debug\04.CountNumInArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\04.CountNumInArray-Test\bin\Debug\04.CountNumInArray.pdb

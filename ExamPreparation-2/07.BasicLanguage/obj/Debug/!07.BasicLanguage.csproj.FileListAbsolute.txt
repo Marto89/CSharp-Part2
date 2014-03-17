@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\07.BasicLanguage\bin\Debug\07.BasicLanguage.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\07.BasicLanguage\obj\Debug\07.BasicLanguage.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\07.BasicLanguage\obj\Debug\07.BasicLanguage.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\07.BasicLanguage\bin\Debug\07.BasicLanguage.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\07.BasicLanguage\bin\Debug\07.BasicLanguage.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation-2\07.BasicLanguage\obj\Debug\!07.BasicLanguage.csprojResolveAssemblyReference.cache

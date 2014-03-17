@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\15.GenericMethods\bin\Debug\15.GenericMethods.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\15.GenericMethods\bin\Debug\15.GenericMethods.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\15.GenericMethods\bin\Debug\15.GenericMethods.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\15.GenericMethods\obj\Debug\15.GenericMethods.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\15.GenericMethods\obj\Debug\15.GenericMethods.pdb

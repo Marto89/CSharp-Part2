@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\16.NumbersOfDaysBetweenTwoDates\bin\Debug\16.NumbersOfDaysBetweenTwoDates.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\16.NumbersOfDaysBetweenTwoDates\bin\Debug\16.NumbersOfDaysBetweenTwoDates.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\16.NumbersOfDaysBetweenTwoDates\bin\Debug\16.NumbersOfDaysBetweenTwoDates.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\16.NumbersOfDaysBetweenTwoDates\obj\Debug\16.NumbersOfDaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\16.NumbersOfDaysBetweenTwoDates\obj\Debug\16.NumbersOfDaysBetweenTwoDates.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\16.NumbersOfDaysBetweenTwoDates\obj\Debug\16.NumbersOfDaysBetweenTwoDates.pdb

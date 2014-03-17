@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\10.GreedyDwarf\bin\Debug\10.GreedyDwarf.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\10.GreedyDwarf\bin\Debug\10.GreedyDwarf.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\10.GreedyDwarf\bin\Debug\10.GreedyDwarf.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\10.GreedyDwarf\obj\Debug\10.GreedyDwarf.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\10.GreedyDwarf\obj\Debug\10.GreedyDwarf.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\10.GreedyDwarf\obj\Debug\10.GreedyDwarf.pdb

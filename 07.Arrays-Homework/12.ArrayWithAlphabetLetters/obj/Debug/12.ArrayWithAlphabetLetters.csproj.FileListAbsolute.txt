@@ -1,0 +1,10 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\12.ArrayWithAlphabetLetters\bin\Debug\12.ArrayWithAlphabetLetters.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\12.ArrayWithAlphabetLetters\bin\Debug\12.ArrayWithAlphabetLetters.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\12.ArrayWithAlphabetLetters\bin\Debug\12.ArrayWithAlphabetLetters.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\12.ArrayWithAlphabetLetters\obj\Debug\12.ArrayWithAlphabetLetters.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\12.ArrayWithAlphabetLetters\obj\Debug\12.ArrayWithAlphabetLetters.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\12.ArrayWithAlphabetLetters\bin\Debug\12.ArrayWithAlphabetLetters.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\12.ArrayWithAlphabetLetters\obj\Debug\12.ArrayWithAlphabetLetters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\12.ArrayWithAlphabetLetters\obj\Debug\12.ArrayWithAlphabetLetters.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\12.ArrayWithAlphabetLetters\bin\Debug\12.ArrayWithAlphabetLetters.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\12.ArrayWithAlphabetLetters\bin\Debug\12.ArrayWithAlphabetLetters.pdb

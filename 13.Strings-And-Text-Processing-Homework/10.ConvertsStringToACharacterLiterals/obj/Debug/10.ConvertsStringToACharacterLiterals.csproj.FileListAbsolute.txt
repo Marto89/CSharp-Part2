@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\10.ConvertsStringToACharacterLiterals\bin\Debug\10.ConvertsStringToACharacterLiterals.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\10.ConvertsStringToACharacterLiterals\bin\Debug\10.ConvertsStringToACharacterLiterals.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\10.ConvertsStringToACharacterLiterals\bin\Debug\10.ConvertsStringToACharacterLiterals.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\10.ConvertsStringToACharacterLiterals\obj\Debug\10.ConvertsStringToACharacterLiterals.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\10.ConvertsStringToACharacterLiterals\obj\Debug\10.ConvertsStringToACharacterLiterals.pdb

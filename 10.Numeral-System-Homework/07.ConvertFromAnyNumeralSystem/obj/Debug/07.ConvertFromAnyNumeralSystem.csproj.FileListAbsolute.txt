@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\07.ConvertFromAnyNumeralSystem\bin\Debug\07.ConvertFromAnyNumeralSystem.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\07.ConvertFromAnyNumeralSystem\bin\Debug\07.ConvertFromAnyNumeralSystem.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\07.ConvertFromAnyNumeralSystem\bin\Debug\07.ConvertFromAnyNumeralSystem.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\07.ConvertFromAnyNumeralSystem\obj\Debug\07.ConvertFromAnyNumeralSystem.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\07.ConvertFromAnyNumeralSystem\obj\Debug\07.ConvertFromAnyNumeralSystem.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\07.ConvertFromAnyNumeralSystem\obj\Debug\07.ConvertFromAnyNumeralSystem.pdb

@@ -1,0 +1,12 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe.CodeAnalysisLog.xml
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe.lastcodeanalysissucceeded
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.pdb

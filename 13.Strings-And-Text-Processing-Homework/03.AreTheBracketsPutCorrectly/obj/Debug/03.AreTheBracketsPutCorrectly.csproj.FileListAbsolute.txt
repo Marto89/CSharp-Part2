@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\03.AreTheBracketsPutCorrectly\bin\Debug\03.AreTheBracketsPutCorrectly.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\03.AreTheBracketsPutCorrectly\obj\Debug\03.AreTheBracketsPutCorrectly.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\03.AreTheBracketsPutCorrectly\bin\Debug\03.AreTheBracketsPutCorrectly.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\03.AreTheBracketsPutCorrectly\bin\Debug\03.AreTheBracketsPutCorrectly.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\03.AreTheBracketsPutCorrectly\obj\Debug\03.AreTheBracketsPutCorrectly.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\03.AreTheBracketsPutCorrectly\obj\Debug\03.AreTheBracketsPutCorrectly.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\03.LongestSequencesInMatrixOfStrings\bin\Debug\03.LongestSequencesInMatrixOfStrings.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\03.LongestSequencesInMatrixOfStrings\bin\Debug\03.LongestSequencesInMatrixOfStrings.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\03.LongestSequencesInMatrixOfStrings\bin\Debug\03.LongestSequencesInMatrixOfStrings.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\03.LongestSequencesInMatrixOfStrings\obj\Debug\03.LongestSequencesInMatrixOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\03.LongestSequencesInMatrixOfStrings\obj\Debug\03.LongestSequencesInMatrixOfStrings.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\03.LongestSequencesInMatrixOfStrings\obj\Debug\03.LongestSequencesInMatrixOfStrings.pdb

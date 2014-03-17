@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\05.MaxSumInMatrix\bin\Debug\05.MaxSumInMatrix.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\05.MaxSumInMatrix\bin\Debug\05.MaxSumInMatrix.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\05.MaxSumInMatrix\bin\Debug\05.MaxSumInMatrix.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\05.MaxSumInMatrix\obj\Debug\05.MaxSumInMatrix.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\05.MaxSumInMatrix\obj\Debug\05.MaxSumInMatrix.pdb

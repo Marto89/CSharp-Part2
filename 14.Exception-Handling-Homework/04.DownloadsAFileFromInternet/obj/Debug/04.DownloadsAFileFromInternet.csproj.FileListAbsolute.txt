@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\04.DownloadsAFileFromInternet\bin\Debug\04.DownloadsAFileFromInternet.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\04.DownloadsAFileFromInternet\obj\Debug\04.DownloadsAFileFromInternet.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\04.DownloadsAFileFromInternet\bin\Debug\04.DownloadsAFileFromInternet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\04.DownloadsAFileFromInternet\bin\Debug\04.DownloadsAFileFromInternet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\04.DownloadsAFileFromInternet\obj\Debug\04.DownloadsAFileFromInternet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\04.DownloadsAFileFromInternet\obj\Debug\04.DownloadsAFileFromInternet.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\18.BiggestIncrementSequence\bin\Debug\18.BiggestIncrementSequence.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\18.BiggestIncrementSequence\bin\Debug\18.BiggestIncrementSequence.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\18.BiggestIncrementSequence\bin\Debug\18.BiggestIncrementSequence.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\18.BiggestIncrementSequence\obj\Debug\18.BiggestIncrementSequence.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\18.BiggestIncrementSequence\obj\Debug\18.BiggestIncrementSequence.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\18.BiggestIncrementSequence\obj\Debug\18.BiggestIncrementSequence.pdb

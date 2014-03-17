@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\13.ProgramWithMenu\bin\Debug\13.ProgramWithMenu.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\13.ProgramWithMenu\bin\Debug\13.ProgramWithMenu.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\13.ProgramWithMenu\bin\Debug\13.ProgramWithMenu.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\13.ProgramWithMenu\obj\Debug\13.ProgramWithMenu.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\13.ProgramWithMenu\obj\Debug\13.ProgramWithMenu.pdb

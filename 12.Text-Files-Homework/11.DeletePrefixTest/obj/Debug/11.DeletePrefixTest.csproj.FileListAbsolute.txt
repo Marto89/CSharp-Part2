@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\11.DeletePrefixTest\bin\Debug\11.DeletePrefixTest.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\11.DeletePrefixTest\bin\Debug\11.DeletePrefixTest.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\11.DeletePrefixTest\bin\Debug\11.DeletePrefixTest.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\11.DeletePrefixTest\obj\Debug\11.DeletePrefixTest.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\11.DeletePrefixTest\obj\Debug\11.DeletePrefixTest.pdb

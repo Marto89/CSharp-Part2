@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\1. StrangeLandNumbers\bin\Debug\_1.StrangeLandNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\1. StrangeLandNumbers\obj\Debug\_1.StrangeLandNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM-2\1. StrangeLandNumbers\obj\Debug\_1.StrangeLandNumbers.pdb

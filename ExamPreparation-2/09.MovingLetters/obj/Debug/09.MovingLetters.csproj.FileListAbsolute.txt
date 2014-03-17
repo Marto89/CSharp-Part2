@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\09.MovingLetters\bin\Debug\09.MovingLetters.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\09.MovingLetters\bin\Debug\09.MovingLetters.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\09.MovingLetters\bin\Debug\09.MovingLetters.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\09.MovingLetters\obj\Debug\09.MovingLetters.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\09.MovingLetters\obj\Debug\09.MovingLetters.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\09.MovingLetters\obj\Debug\09.MovingLetters.pdb

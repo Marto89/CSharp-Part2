@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\15.ConsoleJustification\bin\Debug\15.ConsoleJustification.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\15.ConsoleJustification\bin\Debug\15.ConsoleJustification.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\15.ConsoleJustification\bin\Debug\15.ConsoleJustification.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\15.ConsoleJustification\obj\Debug\15.ConsoleJustification.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\15.ConsoleJustification\obj\Debug\15.ConsoleJustification.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\15.ConsoleJustification\obj\Debug\15.ConsoleJustification.pdb

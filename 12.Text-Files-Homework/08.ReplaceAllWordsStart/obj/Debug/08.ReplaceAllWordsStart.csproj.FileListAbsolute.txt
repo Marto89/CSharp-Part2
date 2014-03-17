@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\08.ReplaceAllWordsStart\bin\Debug\08.ReplaceAllWordsStart.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\08.ReplaceAllWordsStart\bin\Debug\08.ReplaceAllWordsStart.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\08.ReplaceAllWordsStart\bin\Debug\08.ReplaceAllWordsStart.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\08.ReplaceAllWordsStart\obj\Debug\08.ReplaceAllWordsStart.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\08.ReplaceAllWordsStart\obj\Debug\08.ReplaceAllWordsStart.pdb

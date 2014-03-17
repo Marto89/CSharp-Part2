@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\14.MinMaxAverageSumProduct\bin\Debug\14.MinMaxAverageSumProduct.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\14.MinMaxAverageSumProduct\bin\Debug\14.MinMaxAverageSumProduct.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\14.MinMaxAverageSumProduct\bin\Debug\14.MinMaxAverageSumProduct.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\14.MinMaxAverageSumProduct\obj\Debug\14.MinMaxAverageSumProduct.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\14.MinMaxAverageSumProduct\obj\Debug\14.MinMaxAverageSumProduct.pdb

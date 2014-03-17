@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\08.ExtractSentencesFromTextContainingWord\bin\Debug\08.ExtractSentencesFromTextContainingWord.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\08.ExtractSentencesFromTextContainingWord\bin\Debug\08.ExtractSentencesFromTextContainingWord.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\08.ExtractSentencesFromTextContainingWord\bin\Debug\08.ExtractSentencesFromTextContainingWord.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\08.ExtractSentencesFromTextContainingWord\obj\Debug\08.ExtractSentencesFromTextContainingWord.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\08.ExtractSentencesFromTextContainingWord\obj\Debug\08.ExtractSentencesFromTextContainingWord.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\08.ExtractSentencesFromTextContainingWord\obj\Debug\08.ExtractSentencesFromTextContainingWord.pdb

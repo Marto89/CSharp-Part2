@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\16.SubSetSum\bin\Debug\16.SubSetSum.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\16.SubSetSum\bin\Debug\16.SubSetSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\16.SubSetSum\bin\Debug\16.SubSetSum.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\16.SubSetSum\obj\Debug\16.SubSetSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\16.SubSetSum\obj\Debug\16.SubSetSum.pdb

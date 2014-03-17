@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\12.ParsesAnURLAddressIntTheFormat\bin\Debug\12.ParsesAnURLAddressIntTheFormat.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\12.ParsesAnURLAddressIntTheFormat\bin\Debug\12.ParsesAnURLAddressIntTheFormat.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\12.ParsesAnURLAddressIntTheFormat\bin\Debug\12.ParsesAnURLAddressIntTheFormat.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\12.ParsesAnURLAddressIntTheFormat\obj\Debug\12.ParsesAnURLAddressIntTheFormat.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\12.ParsesAnURLAddressIntTheFormat\obj\Debug\12.ParsesAnURLAddressIntTheFormat.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\12.ParsesAnURLAddressIntTheFormat\obj\Debug\12.ParsesAnURLAddressIntTheFormat.pdb

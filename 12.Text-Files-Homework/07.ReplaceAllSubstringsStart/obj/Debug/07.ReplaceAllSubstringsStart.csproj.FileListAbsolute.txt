@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\07.ReplaceAllSubstringsStart\bin\Debug\07.ReplaceAllSubstringsStart.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\07.ReplaceAllSubstringsStart\bin\Debug\07.ReplaceAllSubstringsStart.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\07.ReplaceAllSubstringsStart\bin\Debug\07.ReplaceAllSubstringsStart.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\07.ReplaceAllSubstringsStart\obj\Debug\07.ReplaceAllSubstringsStart.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\07.ReplaceAllSubstringsStart\obj\Debug\07.ReplaceAllSubstringsStart.pdb

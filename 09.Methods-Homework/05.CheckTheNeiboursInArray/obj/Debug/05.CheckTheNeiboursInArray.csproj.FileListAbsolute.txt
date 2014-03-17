@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\05.CheckTheNeiboursInArray\bin\Debug\05.CheckTheNeiboursInArray.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\05.CheckTheNeiboursInArray\bin\Debug\05.CheckTheNeiboursInArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\05.CheckTheNeiboursInArray\bin\Debug\05.CheckTheNeiboursInArray.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\05.CheckTheNeiboursInArray\obj\Debug\05.CheckTheNeiboursInArray.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\05.CheckTheNeiboursInArray\obj\Debug\05.CheckTheNeiboursInArray.pdb

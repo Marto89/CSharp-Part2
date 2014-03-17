@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\01.SquareRootOfIntegerNumber\bin\Debug\01.SquareRootOfIntegerNumber.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\01.SquareRootOfIntegerNumber\bin\Debug\01.SquareRootOfIntegerNumber.exe
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\01.SquareRootOfIntegerNumber\bin\Debug\01.SquareRootOfIntegerNumber.pdb
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\01.SquareRootOfIntegerNumber\obj\Debug\01.SquareRootOfIntegerNumber.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\01.SquareRootOfIntegerNumber\obj\Debug\01.SquareRootOfIntegerNumber.exe
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\01.SquareRootOfIntegerNumber\obj\Debug\01.SquareRootOfIntegerNumber.pdb

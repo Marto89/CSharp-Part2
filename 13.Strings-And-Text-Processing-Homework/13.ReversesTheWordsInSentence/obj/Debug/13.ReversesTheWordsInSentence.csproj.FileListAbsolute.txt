@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\13.ReversesTheWordsInSentence\bin\Debug\13.ReversesTheWordsInSentence.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\13.ReversesTheWordsInSentence\bin\Debug\13.ReversesTheWordsInSentence.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\13.ReversesTheWordsInSentence\bin\Debug\13.ReversesTheWordsInSentence.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\13.ReversesTheWordsInSentence\obj\Debug\13.ReversesTheWordsInSentence.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\13.ReversesTheWordsInSentence\obj\Debug\13.ReversesTheWordsInSentence.pdb

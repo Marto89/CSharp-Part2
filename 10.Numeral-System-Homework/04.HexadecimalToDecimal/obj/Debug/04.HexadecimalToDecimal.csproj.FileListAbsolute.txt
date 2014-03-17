@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

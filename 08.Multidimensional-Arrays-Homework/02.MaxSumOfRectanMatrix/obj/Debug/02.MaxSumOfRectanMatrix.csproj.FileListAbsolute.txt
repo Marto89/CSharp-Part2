@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\08.Multidimensional-Arrays-Homework\02.MaxSumOfRectanMatrix\bin\Debug\02.MaxSumOfRectanMatrix.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\08.Multidimensional-Arrays-Homework\02.MaxSumOfRectanMatrix\bin\Debug\02.MaxSumOfRectanMatrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\08.Multidimensional-Arrays-Homework\02.MaxSumOfRectanMatrix\bin\Debug\02.MaxSumOfRectanMatrix.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\08.Multidimensional-Arrays-Homework\02.MaxSumOfRectanMatrix\obj\Debug\02.MaxSumOfRectanMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\08.Multidimensional-Arrays-Homework\02.MaxSumOfRectanMatrix\obj\Debug\02.MaxSumOfRectanMatrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\08.Multidimensional-Arrays-Homework\02.MaxSumOfRectanMatrix\obj\Debug\02.MaxSumOfRectanMatrix.pdb

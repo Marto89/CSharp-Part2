@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\03.KaspichanNumbers\bin\Debug\03.KaspichanNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\03.KaspichanNumbers\obj\Debug\03.KaspichanNumbers.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\03.KaspichanNumbers\bin\Debug\03.KaspichanNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\03.KaspichanNumbers\bin\Debug\03.KaspichanNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\03.KaspichanNumbers\obj\Debug\03.KaspichanNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\03.KaspichanNumbers\obj\Debug\03.KaspichanNumbers.pdb

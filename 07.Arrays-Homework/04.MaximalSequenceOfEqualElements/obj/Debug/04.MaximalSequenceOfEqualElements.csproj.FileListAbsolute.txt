@@ -1,0 +1,13 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe.CodeAnalysisLog.xml
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe.lastcodeanalysissucceeded
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache

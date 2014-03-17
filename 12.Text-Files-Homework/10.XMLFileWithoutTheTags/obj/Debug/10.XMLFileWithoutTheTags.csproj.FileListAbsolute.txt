@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\10.XMLFileWithoutTheTags\bin\Debug\10.XMLFileWithoutTheTags.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\10.XMLFileWithoutTheTags\bin\Debug\10.XMLFileWithoutTheTags.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\10.XMLFileWithoutTheTags\bin\Debug\10.XMLFileWithoutTheTags.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\10.XMLFileWithoutTheTags\obj\Debug\10.XMLFileWithoutTheTags.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\10.XMLFileWithoutTheTags\obj\Debug\10.XMLFileWithoutTheTags.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\10.XMLFileWithoutTheTags\obj\Debug\10.XMLFileWithoutTheTags.csprojResolveAssemblyReference.cache

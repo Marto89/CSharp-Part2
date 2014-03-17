@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\04.CalculateTheSurfaceOfATriangle\bin\Debug\04.CalculateTheSurfaceOfATriangle.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\04.CalculateTheSurfaceOfATriangle\bin\Debug\04.CalculateTheSurfaceOfATriangle.exe
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\04.CalculateTheSurfaceOfATriangle\bin\Debug\04.CalculateTheSurfaceOfATriangle.pdb
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\04.CalculateTheSurfaceOfATriangle\obj\Debug\04.CalculateTheSurfaceOfATriangle.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\04.CalculateTheSurfaceOfATriangle\obj\Debug\04.CalculateTheSurfaceOfATriangle.exe
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\04.CalculateTheSurfaceOfATriangle\obj\Debug\04.CalculateTheSurfaceOfATriangle.pdb

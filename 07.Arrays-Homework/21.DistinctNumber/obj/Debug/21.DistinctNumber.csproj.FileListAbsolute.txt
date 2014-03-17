@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\21.DistinctNumber\bin\Debug\21.DistinctNumber.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\21.DistinctNumber\bin\Debug\21.DistinctNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\21.DistinctNumber\bin\Debug\21.DistinctNumber.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\21.DistinctNumber\obj\Debug\21.DistinctNumber.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\21.DistinctNumber\obj\Debug\21.DistinctNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\21.DistinctNumber\obj\Debug\21.DistinctNumber.pdb

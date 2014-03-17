@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.pdb

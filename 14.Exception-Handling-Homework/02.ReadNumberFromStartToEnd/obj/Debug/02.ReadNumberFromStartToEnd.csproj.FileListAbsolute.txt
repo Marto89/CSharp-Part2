@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\02.ReadNumberFromStartToEnd\obj\Debug\02.ReadNumberFromStartToEnd.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\02.ReadNumberFromStartToEnd\bin\Debug\02.ReadNumberFromStartToEnd.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\02.ReadNumberFromStartToEnd\bin\Debug\02.ReadNumberFromStartToEnd.exe
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\02.ReadNumberFromStartToEnd\bin\Debug\02.ReadNumberFromStartToEnd.pdb
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\02.ReadNumberFromStartToEnd\obj\Debug\02.ReadNumberFromStartToEnd.exe
+c:\users\marto\documents\visual studio 2013\Projects\14.Exception-Handling-Homework\02.ReadNumberFromStartToEnd\obj\Debug\02.ReadNumberFromStartToEnd.pdb

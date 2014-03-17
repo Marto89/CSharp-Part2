@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\05.TheNumberOfWorkdays\bin\Debug\05.TheNumberOfWorkdays.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\05.TheNumberOfWorkdays\obj\Debug\05.TheNumberOfWorkdays.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\05.TheNumberOfWorkdays\bin\Debug\05.TheNumberOfWorkdays.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\05.TheNumberOfWorkdays\bin\Debug\05.TheNumberOfWorkdays.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\05.TheNumberOfWorkdays\obj\Debug\05.TheNumberOfWorkdays.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\05.TheNumberOfWorkdays\obj\Debug\05.TheNumberOfWorkdays.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\09.ForbiddenWordsWithAsterisks\bin\Debug\09.ForbiddenWordsWithAsterisks.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\09.ForbiddenWordsWithAsterisks\bin\Debug\09.ForbiddenWordsWithAsterisks.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\09.ForbiddenWordsWithAsterisks\bin\Debug\09.ForbiddenWordsWithAsterisks.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\09.ForbiddenWordsWithAsterisks\obj\Debug\09.ForbiddenWordsWithAsterisks.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\09.ForbiddenWordsWithAsterisks\obj\Debug\09.ForbiddenWordsWithAsterisks.pdb

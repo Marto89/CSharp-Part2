@@ -1,0 +1,12 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe.CodeAnalysisLog.xml
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe.lastcodeanalysissucceeded
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\12.RemoveGivenWordsFromText\bin\Debug\12.RemoveGivenWordsFromText.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\12.RemoveGivenWordsFromText\bin\Debug\12.RemoveGivenWordsFromText.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\12.RemoveGivenWordsFromText\bin\Debug\12.RemoveGivenWordsFromText.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\12.RemoveGivenWordsFromText\obj\Debug\12.RemoveGivenWordsFromText.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\12.Text-Files-Homework\12.RemoveGivenWordsFromText\obj\Debug\12.RemoveGivenWordsFromText.pdb

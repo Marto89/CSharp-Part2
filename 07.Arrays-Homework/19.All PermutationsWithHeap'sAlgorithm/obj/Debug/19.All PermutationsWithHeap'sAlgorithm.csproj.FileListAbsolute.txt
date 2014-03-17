@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\19.All PermutationsWithHeap'sAlgorithm\bin\Debug\19.All PermutationsWithHeap'sAlgorithm.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\19.All PermutationsWithHeap'sAlgorithm\bin\Debug\19.All PermutationsWithHeap'sAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\19.All PermutationsWithHeap'sAlgorithm\bin\Debug\19.All PermutationsWithHeap'sAlgorithm.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\19.All PermutationsWithHeap'sAlgorithm\obj\Debug\19.All PermutationsWithHeap'sAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\19.All PermutationsWithHeap'sAlgorithm\obj\Debug\19.All PermutationsWithHeap'sAlgorithm.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\19.All PermutationsWithHeap'sAlgorithm\obj\Debug\19.All PermutationsWithHeap'sAlgorithm.pdb

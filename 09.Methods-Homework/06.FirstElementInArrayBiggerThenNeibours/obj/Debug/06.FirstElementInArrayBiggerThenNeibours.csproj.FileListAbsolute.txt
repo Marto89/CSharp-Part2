@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\06.FirstElementInArrayBiggerThenNeibours\bin\Debug\06.FirstElementInArrayBiggerThenNeibours.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\06.FirstElementInArrayBiggerThenNeibours\bin\Debug\06.FirstElementInArrayBiggerThenNeibours.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\06.FirstElementInArrayBiggerThenNeibours\bin\Debug\06.FirstElementInArrayBiggerThenNeibours.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\06.FirstElementInArrayBiggerThenNeibours\obj\Debug\06.FirstElementInArrayBiggerThenNeibours.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\06.FirstElementInArrayBiggerThenNeibours\obj\Debug\06.FirstElementInArrayBiggerThenNeibours.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\14.EncyclopedicDictionary\bin\Debug\14.EncyclopedicDictionary.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\14.EncyclopedicDictionary\bin\Debug\14.EncyclopedicDictionary.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\14.EncyclopedicDictionary\bin\Debug\14.EncyclopedicDictionary.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\14.EncyclopedicDictionary\obj\Debug\14.EncyclopedicDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\14.EncyclopedicDictionary\obj\Debug\14.EncyclopedicDictionary.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\14.EncyclopedicDictionary\obj\Debug\14.EncyclopedicDictionary.pdb

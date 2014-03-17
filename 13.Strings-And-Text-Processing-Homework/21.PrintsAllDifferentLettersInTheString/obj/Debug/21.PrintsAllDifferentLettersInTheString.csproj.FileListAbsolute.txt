@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\21.PrintsAllDifferentLettersInTheString\bin\Debug\21.PrintsAllDifferentLettersInTheString.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\21.PrintsAllDifferentLettersInTheString\bin\Debug\21.PrintsAllDifferentLettersInTheString.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\21.PrintsAllDifferentLettersInTheString\bin\Debug\21.PrintsAllDifferentLettersInTheString.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\21.PrintsAllDifferentLettersInTheString\obj\Debug\21.PrintsAllDifferentLettersInTheString.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\21.PrintsAllDifferentLettersInTheString\obj\Debug\21.PrintsAllDifferentLettersInTheString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\18.BunnyFactory\bin\Debug\18.BunnyFactory.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\18.BunnyFactory\bin\Debug\18.BunnyFactory.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\18.BunnyFactory\bin\Debug\18.BunnyFactory.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\18.BunnyFactory\obj\Debug\18.BunnyFactory.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\18.BunnyFactory\obj\Debug\18.BunnyFactory.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\18.BunnyFactory\obj\Debug\18.BunnyFactory.pdb

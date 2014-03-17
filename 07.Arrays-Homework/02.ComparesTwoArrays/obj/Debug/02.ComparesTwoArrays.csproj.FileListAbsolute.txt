@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\07.Arrays\02.ComparesTwoArrays\bin\Debug\02.ComparesTwoArrays.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\07.Arrays\02.ComparesTwoArrays\bin\Debug\02.ComparesTwoArrays.exe
+c:\users\marto\documents\visual studio 2013\Projects\07.Arrays\02.ComparesTwoArrays\bin\Debug\02.ComparesTwoArrays.pdb
+c:\users\marto\documents\visual studio 2013\Projects\07.Arrays\02.ComparesTwoArrays\obj\Debug\02.ComparesTwoArrays.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\07.Arrays\02.ComparesTwoArrays\obj\Debug\02.ComparesTwoArrays.exe
+c:\users\marto\documents\visual studio 2013\Projects\07.Arrays\02.ComparesTwoArrays\obj\Debug\02.ComparesTwoArrays.pdb

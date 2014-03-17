@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\03.LastDigitInWord\bin\Debug\03.LastDigitInWord.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\03.LastDigitInWord\bin\Debug\03.LastDigitInWord.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\03.LastDigitInWord\bin\Debug\03.LastDigitInWord.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\03.LastDigitInWord\obj\Debug\03.LastDigitInWord.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\03.LastDigitInWord\obj\Debug\03.LastDigitInWord.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\03.LastDigitInWord\obj\Debug\03.LastDigitInWord.pdb

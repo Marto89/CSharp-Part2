@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\09.BinaryRepresentationOfFloatNumber\bin\Debug\09.BinaryRepresentationOfFloatNumber.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\09.BinaryRepresentationOfFloatNumber\bin\Debug\09.BinaryRepresentationOfFloatNumber.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\09.BinaryRepresentationOfFloatNumber\bin\Debug\09.BinaryRepresentationOfFloatNumber.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\09.BinaryRepresentationOfFloatNumber\obj\Debug\09.BinaryRepresentationOfFloatNumber.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\09.BinaryRepresentationOfFloatNumber\obj\Debug\09.BinaryRepresentationOfFloatNumber.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\10.Numeral-System-Homework\09.BinaryRepresentationOfFloatNumber\obj\Debug\09.BinaryRepresentationOfFloatNumber.pdb

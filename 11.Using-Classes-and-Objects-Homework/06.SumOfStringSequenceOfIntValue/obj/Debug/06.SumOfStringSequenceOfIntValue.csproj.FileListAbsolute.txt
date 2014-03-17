@@ -1,0 +1,11 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\bin\Debug\06.SumOfStringSequenceOfIntValue.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\bin\Debug\06.SumOfStringSequenceOfIntValue.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\bin\Debug\06.SumOfStringSequenceOfIntValue.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\obj\Debug\06.SumOfStringSequenceOfIntValue.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\obj\Debug\06.SumOfStringSequenceOfIntValue.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\bin\Debug\06.SumOfStringSequenceOfIntValue.exe.config
+F:\Programming Tools\Visual Studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\obj\Debug\06.SumOfStringSequenceOfIntValue.exe
+F:\Programming Tools\Visual Studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\obj\Debug\06.SumOfStringSequenceOfIntValue.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\bin\Debug\06.SumOfStringSequenceOfIntValue.exe
+F:\Programming Tools\Visual Studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\bin\Debug\06.SumOfStringSequenceOfIntValue.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\11.Using-Classes-and-Objects-Homework\06.SumOfStringSequenceOfIntValue\obj\Debug\06.SumOfStringSequenceOfIntValue.csprojResolveAssemblyReference.cache

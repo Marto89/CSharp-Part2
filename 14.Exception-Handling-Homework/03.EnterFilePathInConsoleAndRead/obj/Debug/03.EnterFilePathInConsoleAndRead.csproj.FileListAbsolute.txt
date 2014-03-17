@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\03.EnterFilePathInConsoleAndRead\bin\Debug\03.EnterFilePathInConsoleAndRead.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\03.EnterFilePathInConsoleAndRead\obj\Debug\03.EnterFilePathInConsoleAndRead.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\03.EnterFilePathInConsoleAndRead\bin\Debug\03.EnterFilePathInConsoleAndRead.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\03.EnterFilePathInConsoleAndRead\bin\Debug\03.EnterFilePathInConsoleAndRead.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\03.EnterFilePathInConsoleAndRead\obj\Debug\03.EnterFilePathInConsoleAndRead.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\14.Exception-Handling-Homework\03.EnterFilePathInConsoleAndRead\obj\Debug\03.EnterFilePathInConsoleAndRead.pdb

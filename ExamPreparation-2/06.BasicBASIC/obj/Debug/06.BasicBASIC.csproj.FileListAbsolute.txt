@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\06.BasicBASIC\bin\Debug\06.BasicBASIC.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\06.BasicBASIC\bin\Debug\06.BasicBASIC.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\06.BasicBASIC\bin\Debug\06.BasicBASIC.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\06.BasicBASIC\obj\Debug\06.BasicBASIC.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\06.BasicBASIC\obj\Debug\06.BasicBASIC.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\06.BasicBASIC\obj\Debug\06.BasicBASIC.pdb

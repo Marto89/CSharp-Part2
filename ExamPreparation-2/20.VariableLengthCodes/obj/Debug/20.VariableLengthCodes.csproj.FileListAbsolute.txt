@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\20.VariableLengthCodes\bin\Debug\20.VariableLengthCodes.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\20.VariableLengthCodes\bin\Debug\20.VariableLengthCodes.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\20.VariableLengthCodes\bin\Debug\20.VariableLengthCodes.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\20.VariableLengthCodes\obj\Debug\20.VariableLengthCodes.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\20.VariableLengthCodes\obj\Debug\20.VariableLengthCodes.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\20.VariableLengthCodes\obj\Debug\20.VariableLengthCodes.pdb

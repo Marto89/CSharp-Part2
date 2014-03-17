@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\17.SubSetSumHarer\bin\Debug\17.SubSetSumHarer.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\17.SubSetSumHarer\bin\Debug\17.SubSetSumHarer.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\17.SubSetSumHarer\bin\Debug\17.SubSetSumHarer.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\17.SubSetSumHarer\obj\Debug\17.SubSetSumHarer.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\07.Arrays-Homework\17.SubSetSumHarer\obj\Debug\17.SubSetSumHarer.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\02.ReverseString\bin\Debug\02.ReverseString.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\02.ReverseString\bin\Debug\02.ReverseString.exe
+c:\users\marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\02.ReverseString\bin\Debug\02.ReverseString.pdb
+c:\users\marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\02.ReverseString\obj\Debug\02.ReverseString.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\02.ReverseString\obj\Debug\02.ReverseString.exe
+c:\users\marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\02.ReverseString\obj\Debug\02.ReverseString.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\11.FormatOutputNumber\bin\Debug\11.FormatOutputNumber.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\11.FormatOutputNumber\bin\Debug\11.FormatOutputNumber.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\11.FormatOutputNumber\bin\Debug\11.FormatOutputNumber.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\11.FormatOutputNumber\obj\Debug\11.FormatOutputNumber.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\11.FormatOutputNumber\obj\Debug\11.FormatOutputNumber.pdb

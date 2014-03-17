@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\02.TenRandomValues\bin\Debug\02.TenRandomValues.pdb
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+c:\users\marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\11.Using-Classes-and-Objects-Homework\02.TenRandomValues\obj\Debug\02.TenRandomValues.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\12.SpecialValue\bin\Debug\12.SpecialValue.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\12.SpecialValue\obj\Debug\12.SpecialValue.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\12.SpecialValue\bin\Debug\12.SpecialValue.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\12.SpecialValue\bin\Debug\12.SpecialValue.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\12.SpecialValue\obj\Debug\12.SpecialValue.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\12.SpecialValue\obj\Debug\12.SpecialValue.pdb

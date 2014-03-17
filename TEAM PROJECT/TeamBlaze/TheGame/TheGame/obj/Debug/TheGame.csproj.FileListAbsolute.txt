@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TeamWork\TeamBlaze\TheGame\TheGame\bin\Debug\TheGame.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TeamWork\TeamBlaze\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TeamWork\TeamBlaze\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TeamWork\TeamBlaze\TheGame\TheGame\obj\Debug\TheGame.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TeamWork\TeamBlaze\TheGame\TheGame\obj\Debug\TheGame.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\TeamWork\TeamBlaze\TheGame\TheGame\obj\Debug\TheGame.pdb

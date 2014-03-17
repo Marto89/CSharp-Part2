@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\05.HexadecimalToBinaryDirectly\bin\Debug\05.HexadecimalToBinaryDirectly.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\05.HexadecimalToBinaryDirectly\bin\Debug\05.HexadecimalToBinaryDirectly.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\05.HexadecimalToBinaryDirectly\bin\Debug\05.HexadecimalToBinaryDirectly.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\05.HexadecimalToBinaryDirectly\obj\Debug\05.HexadecimalToBinaryDirectly.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\05.HexadecimalToBinaryDirectly\obj\Debug\05.HexadecimalToBinaryDirectly.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\10.Numeral-System-Homework\05.HexadecimalToBinaryDirectly\obj\Debug\05.HexadecimalToBinaryDirectly.pdb

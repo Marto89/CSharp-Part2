@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\02.GetMax\bin\Debug\02.GetMax.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\02.GetMax\bin\Debug\02.GetMax.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\02.GetMax\bin\Debug\02.GetMax.pdb
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\02.GetMax\obj\Debug\02.GetMax.exe
+c:\users\marto\documents\visual studio 2013\Projects\09.Methods-Homework\02.GetMax\obj\Debug\02.GetMax.pdb

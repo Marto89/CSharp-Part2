@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\12.MultPolynom\bin\Debug\12.MultPolynom.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\12.MultPolynom\bin\Debug\12.MultPolynom.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\12.MultPolynom\bin\Debug\12.MultPolynom.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\12.MultPolynom\obj\Debug\12.MultPolynom.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\09.Methods-Homework\12.MultPolynom\obj\Debug\12.MultPolynom.pdb

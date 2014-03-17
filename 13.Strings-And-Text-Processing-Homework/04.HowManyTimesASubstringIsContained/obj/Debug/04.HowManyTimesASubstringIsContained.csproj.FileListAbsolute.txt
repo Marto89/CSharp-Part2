@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\04.HowManyTimesASubstringIsContained\bin\Debug\04.HowManyTimesASubstringIsContained.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\04.HowManyTimesASubstringIsContained\bin\Debug\04.HowManyTimesASubstringIsContained.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\04.HowManyTimesASubstringIsContained\bin\Debug\04.HowManyTimesASubstringIsContained.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\04.HowManyTimesASubstringIsContained\obj\Debug\04.HowManyTimesASubstringIsContained.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\04.HowManyTimesASubstringIsContained\obj\Debug\04.HowManyTimesASubstringIsContained.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\13.Strings-And-Text-Processing-Homework\04.HowManyTimesASubstringIsContained\obj\Debug\04.HowManyTimesASubstringIsContained.csprojResolveAssemblyReference.cache

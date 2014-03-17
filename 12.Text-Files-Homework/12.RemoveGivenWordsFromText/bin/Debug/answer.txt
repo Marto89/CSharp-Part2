@@ -1,0 +1,1 @@
+ a program that reads a list of from a file words.txt finds how many times each of is contained in another file test.txt. The result should written in file result.txt should sorted by number of their occurrences in descending order. Handle all possible exceptions in your methods.

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\06.MatrixClassDefinition\bin\Debug\06.MatrixClassDefinition.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\06.MatrixClassDefinition\bin\Debug\06.MatrixClassDefinition.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\06.MatrixClassDefinition\bin\Debug\06.MatrixClassDefinition.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\06.MatrixClassDefinition\obj\Debug\06.MatrixClassDefinition.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\08.Multidimensional-Arrays-Homework\06.MatrixClassDefinition\obj\Debug\06.MatrixClassDefinition.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\04.DurankulakNumbers\bin\Debug\04.DurankulakNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\04.DurankulakNumbers\bin\Debug\04.DurankulakNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\04.DurankulakNumbers\bin\Debug\04.DurankulakNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\04.DurankulakNumbers\obj\Debug\04.DurankulakNumbers.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\04.DurankulakNumbers\obj\Debug\04.DurankulakNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\ExamPreparation-2\04.DurankulakNumbers\obj\Debug\04.DurankulakNumbers.pdb

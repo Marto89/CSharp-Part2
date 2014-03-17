@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\19.Patterns\bin\Debug\19.Patterns.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\19.Patterns\bin\Debug\19.Patterns.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\19.Patterns\bin\Debug\19.Patterns.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\19.Patterns\obj\Debug\19.Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\19.Patterns\obj\Debug\19.Patterns.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation-2\19.Patterns\obj\Debug\19.Patterns.pdb
